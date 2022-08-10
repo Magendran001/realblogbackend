@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Magendran001/blogbackend.git"
+    "url": "git+https://github.com/Magendran001/realblogbackend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Magendran001/blogbackend/issues"
+    "url": "https://github.com/Magendran001/realblogbackend/issues"
   },
-  "homepage": "https://github.com/Magendran001/blogbackend#readme",
+  "homepage": "https://github.com/Magendran001/realblogbackend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
